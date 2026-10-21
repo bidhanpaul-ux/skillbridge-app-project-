@@ -1,2 +1,31 @@
-# skillbridge-app-project-
-here i made a platform and app for users like a linkdin where evry people can interact and get there jobs based on their skills , and also two people can exchange there skills by techeing them , and every users canget there full details on the profile AI that gives all description abaout the peoson of theirs entire skill , jobs, college, and etc 
+# SkillBridge
+
+A LinkedIn-style platform where students connect, build skill profiles, and get matched to internships and jobs based on what they can actually do.
+
+Built for Smart India Hackathon (won the internal round at Siliguri Institute of Technology).
+
+## Features
+
+- Sign up and login with Firebase Authentication
+- Skill quiz that sets your skill level
+- Job and internship matching based on your skills
+- Skill-gap dashboard showing what you still need to learn
+- Skill exchange: two students can teach each other their skills
+- AI Guide that explains your profile, skills, college and opportunities
+- Separate Student and Institution dashboards
+
+## Tech Stack
+
+- **Frontend:** React (JSX), Framer Motion, Lucide React
+- **Backend:** Firebase Authentication and Firestore
+- **Matching engine:** C++
+
+## Run it locally
+
+    cd Skillbridgeee/skillbridge/frontend
+    npm install
+    npm start
+
+## Team
+
+Built by Bidhan Paul and team.
